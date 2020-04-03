@@ -2,3 +2,4 @@
 Hello, World!
 Другая строка
 Hello, git cherry-pick!
+Hello, squash!
